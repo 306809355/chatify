@@ -4,7 +4,7 @@ Chatify is a custom chat interface powered by OpenAI's GPT-3.5 model.
 
 ## Overview
 
-Chatify allows users to engage in conversational AI interactions with an assistant trained in real estate investment and negotiation.
+Chatify allows users to engage in conversational AI interactions with an assistant training.
 
 ## Setup
 
