@@ -29,6 +29,3 @@ Chatify allows users to engage in conversational AI interactions with an assista
 - Improved context handling for more coherent conversations.
 - Deployment optimizations for scalability.
 
-## Contact
-
-For questions or feedback, contact us at [your.email@example.com](mailto:your.email@example.com).
